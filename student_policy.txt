@@ -1,0 +1,16 @@
+# Fictional Student Handbook — Demo Policy
+
+## Fee payments and failed payment portal
+Students should check their fee status in the student portal. If the payment portal fails, save the error message or screenshot and contact the Student Accounts Office. Whether a payment can be made on the next working day depends on the institution's official notice and the student's deadline. This demo handbook does not authorize late payment or waive a penalty.
+
+## Scholarships
+Scholarship status is visible in the student support system. "Under review" means the application is still being checked; it does not mean approval. Students should contact the Scholarship Desk if the status remains unchanged beyond the published review timeline. This fictional handbook does not define a specific number of days.
+
+## Course and programme changes
+Course or programme changes require a formal request and review by the academic administration team. A request is not a completed change. Sensitive changes must not be executed automatically by the support agent and require an authorized human reviewer.
+
+## Student privacy and account security
+Students may access their own private records only. A student must not access another student's fees, scholarship details, or other private records. Passwords, one-time passwords (OTPs), API keys, and access tokens must not be shared in chat or saved in persistent memory.
+
+## Support requests
+Students may create a support request describing their issue. The system should return a ticket reference and initial status. Do not include passwords, OTPs, or payment-card details in a ticket.
